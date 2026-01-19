@@ -1,7 +1,7 @@
 # Harvard_cs50 :-
 Programming fundamentals using C, Python, and JavaScript
 
-Algorithms and data structures
+Algorithms and data structures 
 
 Memory management
 
