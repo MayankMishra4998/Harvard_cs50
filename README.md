@@ -10,5 +10,5 @@ Web development (HTML, CSS, Flask)
 Cybersecurity, cryptography, and software engineering principles
 
 
-## Weak 0
+## Weak 1
 => 
