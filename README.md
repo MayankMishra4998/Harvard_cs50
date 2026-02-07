@@ -12,4 +12,3 @@ Cybersecurity, cryptography, and software engineering principles
 
 ## Weak 1
 => intro of C and it's basic
-
